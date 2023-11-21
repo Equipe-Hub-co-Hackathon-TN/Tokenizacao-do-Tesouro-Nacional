@@ -1,5 +1,5 @@
-# TokenLend
-## Plataforma de Empréstimo com Títulos Digitais
+
+# Plataforma de Empréstimo com Títulos Digitais
 
 
 ### Problem Solution Fit
@@ -21,3 +21,6 @@ Sistema de staking para garantir segurança e retorno dos títulos após quitaç
 Pesquisa de mercado para validar a demanda por liquidez entre os detentores de TD.
 Testes iniciais para garantir a viabilidade técnica da tokenização de títulos.
 Protótipo da plataforma para coletar feedback inicial dos usuários.
+
+
+
