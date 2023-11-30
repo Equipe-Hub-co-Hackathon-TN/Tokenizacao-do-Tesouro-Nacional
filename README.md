@@ -31,6 +31,10 @@
   <a href="#Equipe">Equipe</a>
 </p>
 
+<p align="center">
+<img src="https://images2.imgbox.com/44/9b/ijQdJ705_o.gif">
+</p>
+
 <br><br>
 
 
