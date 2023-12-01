@@ -25,6 +25,7 @@
 <p align="center">
   <a href="#Sobre o projeto">Sobre o projeto</a> •
   <a href="#Recursos Principais">Recursos Principais</a> •
+  <a href="#Jornada do Usuário">Jornada do Usuário</a> •
   <a href="#Aspectos Técnicos">Aspectos técnicos</a> •
   <a href="#Como testar">Como testar</a> •
   <a href="#Documentação">Documentação</a> •
@@ -43,32 +44,40 @@
 
 ### A AVAL GEST é uma Plataforma de Empréstimo com Títulos Digitais
 
-
-| **PARA**      | Investidores individuais e instituições financeiras que buscam maximizar a eficiência e versatilidade de seus investimentos em títulos do Tesouro Direto. |
+| **PARA**      | <p align="justify"> Investidores do Tesouro Direto que procuram maximizar o valor de seus investimentos através de maior flexibilidade e eficiência, e novos investidores que desejam aproveitar a segurança e liquidez dos títulos do Tesouro como garantia para acessar uma variedade de oportunidades financeiras. </p> |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **QUE**       | Enfrentam o desafio de converter investimentos em títulos do Tesouro, tradicionalmente vistos como ativos de baixa liquidez, em garantias flexíveis e rapidamente mobilizáveis para uma variedade de aplicações financeiras. |
-| **A**         | "AvalGest" é uma plataforma inovadora no espaço das Finanças Descentralizadas (DeFi).                                                                              |
-| **É**         | Uma solução que integra a tecnologia blockchain, permitindo a vinculação de títulos do Tesouro Direto tokenizados a contratos inteligentes, transformando-os em ativos digitais usáveis como garantias dinâmicas e seguras em diversas operações financeiras. Oferece um ambiente transparente, seguro e eficiente para a gestão e utilização desses ativos vinculados. |
-| **QUE**       | Permite aos usuários utilizar títulos do Tesouro, tanto tokenizados quanto não tokenizados, como instrumentos líquidos e multifuncionais em empréstimos e outras formas de financiamento. Essa solução preserva o valor e a integridade dos títulos, ao mesmo tempo que os torna acessíveis para uso imediato no mercado financeiro. |
-| **DIFERENTE** | De bancos e outras instituições financeiras tradicionais que oferecem soluções mais centralizadas e menos flexíveis para a mobilização de títulos como garantia, AvalGest se destaca por sua abordagem descentralizada e adaptável, alinhada com as tendências modernas de finanças digitais e autonomia financeira. |
-| **O**         | Diferencial do AvalGest reside na sua habilidade de unir a confiabilidade dos títulos do Tesouro com a eficiência e inovação da blockchain, criando um novo paradigma em liquidez e oportunidades de investimento. A plataforma não apenas facilita transações rápidas e seguras, mas também expande as possibilidades de uso de títulos do Tesouro, incentivando sua adoção e aumentando a atratividade para novos investidores. |
+| **QUE**       | <p align="justify"> Encontram desafios em mobilizar seus investimentos em títulos do Tesouro Direto de maneira rápida e eficiente para atender necessidades financeiras diversas, como obter empréstimos ou seguros. <p> |
+| **A**         | <p align="justify"> AvalGest é uma plataforma inovadora no ecossistema das Finanças Descentralizadas (DeFi). </p>                                                                             |
+| **É**         |<p align="justify">  Uma solução integrada que gerencia garantias e possibilita transações utilizando títulos do Tesouro Direto, tanto tokenizados quanto não tokenizados, em uma variedade de aplicações financeiras. A plataforma opera com tecnologia blockchain para garantir segurança, privacidade e agilidade nas operações. </p> |
+| **QUE**       | <p align="justify"> Facilita o uso de títulos do Tesouro como garantias líquidas e multifuncionais para uma série de produtos financeiros, como empréstimos em fiat ou criptomoedas e seguros fiança. Ao invés de tokenizar, a AvalGest utiliza os títulos já tokenizados pelo STN, assim como os não tokenizados, conectando-os a smart contracts para utilização como garantia. </p> |
+| **DIFERENTE** | <p align="justify"> Dos bancos e outras instituições financeiras tradicionais, a AvalGest se destaca pela sua abordagem descentralizada e adaptável, que oferece mais opções e flexibilidade que as soluções centralizadas comuns no mercado. </p> |
+| **O**         | <p align="justify"> Diferencial do AvalGest reside na sua capacidade de alavancar a confiabilidade dos títulos do Tesouro com o uso da blockchain, proporcionando um novo paradigma de liquidez e oportunidades de investimento. A plataforma não apenas facilita transações rápidas e seguras, mas também expande as possibilidades de uso dos títulos do Tesouro, atraindo novos investidores e oferecendo aos atuais mais opções de uso para seus ativos. </p> |
 
-
+![](assets/PSF.gif)
 
 </br></br>
 
 
 # Recursos Principais
 
+Gestão e Armazenamento de Dados em Blockchain para Transações Financeiras Diversificadas
+
 | Funcionalidade | Descrição | Tecnologia |
 |-----------------|-----------|------------|
-| Recurso 1       | Descrição do Recurso 1 | Tecnologia A |
-| Recurso 2       | Descrição do Recurso 2 | Tecnologia B |
-| Recurso 3       | Descrição do Recurso 3 | Tecnologia C |
-| Recurso 4       | Descrição do Recurso 4 | Tecnologia D |
+| Carteira Aval Gest     |  Armazena chaves criptográficas e permite a interação com tokens ou ativos digitais em uma blockchain | Blockchain |
+| Empréstimo em FIAT com Token (TPFt)     | Facilita empréstimos em FIAT com TPFT como garantia, usando smart contracts.| Smart Contract |
+| Empréstimo em Cripto com TPFT.      | O investidor recebe o valor do empréstimo em sua carteira cripto, utilizando TPFT como colateral | Smart Contract |
+| Empréstimo Pessoal com Título não Tokenizado  |  Permite o uso de títulos não tokenizados como garantia para empréstimos pessoais. | Smart Contract |
+| Seguro Fiança com TPFT   | Utiliza TPFT como colateral para contratar seguro fiança | Smart Contract |
 
 
 </br></br>
+
+# Jornada do Usuário
+
+
+</br></br>
+
 
 # Aspectos técnicos
 
