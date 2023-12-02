@@ -126,17 +126,6 @@ Ele pode ver atualizações em tempo real sobre o status do empréstimo, pagamen
 | Versão do Solidity      | ^0.8.17                                             |
 | Endereço do Contrato    | 0x52d442BAb6D92DD9913DEd19CB04A321eD2925B6 (Mumbai) |
 
-## Variáveis do Contrato
-
-| Nome                   | Tipo      | Acesso | Descrição                                               |
-|------------------------|-----------|--------|---------------------------------------------------------|
-| Proprietário           | address   | Público| Endereço do proprietário, com controle total sobre o contrato |
-| Carteira de Investimento| address   | Público| Endereço dedicado a investimentos                         |
-| Carteira Institucional  | address   | Público| Endereço associado a fundos institucionais               |
-| Carteira do Gerente     | address   | Público| Endereço do gerente para transações                       |
-| Valor de Garantia       | uint256   | Público| Quantidade de tokens em wei associada à garantia         |
-
-
 </br></br>
 
 # Como testar
