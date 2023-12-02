@@ -42,6 +42,10 @@
 # Sobre o projeto
 </br>
 
+![](assets/PSF.gif)
+
+</br>
+
 ### A AVAL GEST é uma Plataforma de Empréstimo com Títulos Digitais
 
 | **PARA**      | <p align="justify"> Investidores do Tesouro Direto que procuram maximizar o valor de seus investimentos através de maior flexibilidade e eficiência, e novos investidores que desejam aproveitar a segurança e liquidez dos títulos do Tesouro como garantia para acessar uma variedade de oportunidades financeiras. </p> |
@@ -53,7 +57,6 @@
 | **DIFERENTE** | <p align="justify"> Dos bancos e outras instituições financeiras tradicionais, a AvalGest se destaca pela sua abordagem descentralizada e adaptável, que oferece mais opções e flexibilidade que as soluções centralizadas comuns no mercado. </p> |
 | **O**         | <p align="justify"> Diferencial do AvalGest reside na sua capacidade de alavancar a confiabilidade dos títulos do Tesouro com o uso da blockchain, proporcionando um novo paradigma de liquidez e oportunidades de investimento. A plataforma não apenas facilita transações rápidas e seguras, mas também expande as possibilidades de uso dos títulos do Tesouro, atraindo novos investidores e oferecendo aos atuais mais opções de uso para seus ativos. </p> |
 
-![](assets/PSF.gif)
 
 </br></br>
 
@@ -75,21 +78,63 @@ Gestão e Armazenamento de Dados em Blockchain para Transações Financeiras Div
 
 # Jornada do Usuário
 
+A jornada que apresentaremos exemplifica uma funcionalidade específica em nosso sistema: a capacidade de solicitar um empréstimo utilizando títulos como garantia. Para ilustrar essa experiência, apresentamos um protótipo de um aplicativo móvel que guia o usuário desde o primeiro acesso até a conclusão bem-sucedida do empréstimo. <a href="">Acesse aqui o protótipo interativo</a> 
+
+### Etapa 1: Registro e Configuração da Conta
+
+Carlos, um investidor do Tesouro Direto, acessa a plataforma Aval Gest.
+Ele se registra usando sua conta GOV.BR ou sua conta do Tesouro Direto para autenticação.
+
+![]()
+
+### Etapa 2: Exploração da Plataforma
+Carlos explora a interface do Aval Gest, onde ele pode visualizar suas opções.
+Ele revisa diferentes ofertas de empréstimo disponíveis, seguros fiança, e outras operações financeiras que aceitam TPFt como garantia.
+
+![]()
+
+### Etapa 3: Seleção de Produto e Solicitação de Empréstimo
+
+Carlos seleciona uma oferta de empréstimo que se alinha com suas necessidades.
+Ele utiliza seus TPFt como colateral, escolhendo a quantia desejada de empréstimo.
+Carlos revisa os termos do empréstimo e aceita a oferta.
+
+![]()
+
+### Etapa 4: Assinatura do Contrato e Recebimento do Empréstimo
+
+Carlos assina digitalmente o contrato de empréstimo, que é registrado na blockchain.
+Ele recebe o valor do empréstimo em sua conta bancária ou carteira digital, dependendo do tipo de empréstimo escolhido (FIAT ou criptoativos).
+
+![]()
+
+### Etapa 5: Gestão de Empréstimo e Investimentos
+
+Carlos monitora seu empréstimo e investimentos através do dashboard da Aval Gest.
+Ele pode ver atualizações em tempo real sobre o status do empréstimo, pagamentos e rendimentos dos títulos.
+
 
 </br></br>
 
 
 # Aspectos técnicos
 
+| Detalhe                 | Descrição                                           |
+|-------------------------|-----------------------------------------------------|
+| Licença                 | MIT                                                 |
+| Documentação           | [Repositório no GitHub](link_para_o_repositorio)    |
+| Versão do Solidity      | ^0.8.17                                             |
+| Endereço do Contrato    | 0x52d442BAb6D92DD9913DEd19CB04A321eD2925B6 (Mumbai) |
 
-| Etapas          | Descrição                                            |
-|-----------------|------------------------------------------------------|
-| Análise         | Avaliação inicial dos requisitos e escopo técnico.   |
-| Design          | Planejamento e elaboração da arquitetura do sistema. |
-| Desenvolvimento  | Implementação do código-fonte e funcionalidades.     |
-| Testes          | Realização de testes unitários e integração.         |
-| Implantação     | Implementação do sistema em ambiente de produção.    |
-| Manutenção      | Atualizações, correções e otimizações contínuas.     |
+## Variáveis do Contrato
+
+| Nome                   | Tipo      | Acesso | Descrição                                               |
+|------------------------|-----------|--------|---------------------------------------------------------|
+| Proprietário           | address   | Público| Endereço do proprietário, com controle total sobre o contrato |
+| Carteira de Investimento| address   | Público| Endereço dedicado a investimentos                         |
+| Carteira Institucional  | address   | Público| Endereço associado a fundos institucionais               |
+| Carteira do Gerente     | address   | Público| Endereço do gerente para transações                       |
+| Valor de Garantia       | uint256   | Público| Quantidade de tokens em wei associada à garantia         |
 
 
 </br></br>
@@ -121,6 +166,42 @@ https://github.com/Equipe-Hub-co-Hackathon-TN/Tokenizacao-do-Tesouro-Nacional/wi
 
 </br></br>
 # Equipe
+
+<a target="_blank" href="">Thom M Costa </a> <a target="_blank" href="https://www.linkedin.com/in/thommcosta/">
+  <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
+    />
+</a>
+
+
+<a target="_blank" href=" ">Tiago Pastorello </a> <a target="_blank" href="https://www.linkedin.com/in/tiago-pastorello/">
+  <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
+    />
+</a>
+
+<a target="_blank" href=" "> Carlos Ramos</a> <a target="_blank" href="https://www.linkedin.com/in/carlos-ramos-695543117/">
+  <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
+    />
+</a>
+
+<a target="_blank" href=" ">Rayssa Amaral </a> <a target="_blank" href="https://www.linkedin.com/in/rayssa-amaral-6b157b11a/">
+  <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
+    />
+</a>
+
+<a target="_blank" href="https://github.com/jacsontiola">Jacson Tiola</a> <a target="_blank" href="https://www.linkedin.com/in/tiola/">
+  <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
+    />
+<a/>
+
+<a target="_blank" href="https://github.com/Micheleregina2022">Michele Regina Bora</a> <a target="_blank" href="https://www.linkedin.com/in/michele-regina-bora/">
+  <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
+    />
+</a>
+
+<a target="_blank" href="https://github.com/RodrigoSantosGoncalves1991">Rodrigo Gonçalves</a> <a target="_blank" href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-0886b8132/">
+  <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
+    />
+</a>
 
 
 </br></br>
