@@ -67,11 +67,11 @@ Gestão e Armazenamento de Dados em Blockchain para Transações Financeiras Div
 
 | Funcionalidade | Descrição | Tecnologia |
 |-----------------|-----------|------------|
-| Carteira Aval Gest     |  Armazena chaves criptográficas e permite a interação com tokens ou ativos digitais em uma blockchain | Blockchain |
-| Empréstimo em FIAT com Token (TPFt)     | Facilita empréstimos em FIAT com TPFT como garantia, usando smart contracts.| Smart Contract |
-| Empréstimo em Cripto com TPFT.      | O investidor recebe o valor do empréstimo em sua carteira cripto, utilizando TPFT como colateral | Smart Contract |
+| Empréstimo em FIAT com Token (TPFTs)     | Facilita empréstimos em FIAT com TPFT como garantia, usando smart contracts.| Smart Contract |
+| Empréstimo em Cripto com TPFTs.      | O investidor recebe o valor do empréstimo em sua carteira cripto, utilizando TPFT como colateral | Smart Contract |
 | Empréstimo Pessoal com Título não Tokenizado  |  Permite o uso de títulos não tokenizados como garantia para empréstimos pessoais. | Smart Contract |
-| Seguro Fiança com TPFT   | Utiliza TPFT como colateral para contratar seguro fiança | Smart Contract |
+| Seguro Fiança com TPFTs   | Utiliza TPFTs como colateral para contratar seguro fiança | Smart Contract |
+| Carteira Custodial Aval Gest    |  Armazena chaves criptográficas e permite ao usuário menos experiente a interação com tokens ou ativos digitais em uma blockchain | Blockchain |
 
 
 </br></br>
