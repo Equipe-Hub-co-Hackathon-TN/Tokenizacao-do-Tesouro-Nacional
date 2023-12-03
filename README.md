@@ -78,7 +78,7 @@ Gestão e Armazenamento de Dados em Blockchain para Transações Financeiras Div
 
 # Jornada do Usuário
 
-A jornada que apresentaremos exemplifica uma funcionalidade específica em nosso sistema: a capacidade de solicitar um empréstimo utilizando títulos como garantia. Para ilustrar essa experiência, apresentamos um protótipo de um aplicativo móvel que guia o usuário desde o primeiro acesso até a conclusão bem-sucedida do empréstimo. <a href="https://www.figma.com/community/file/1312929302916136467">Acesse aqui o protótipo interativo</a> 
+A jornada que apresentaremos exemplifica uma funcionalidade específica em nosso sistema: a capacidade de solicitar um empréstimo utilizando títulos como garantia. Para ilustrar essa experiência, apresentamos um protótipo de um aplicativo móvel que guia o usuário desde o primeiro acesso até a conclusão bem-sucedida do empréstimo. <a href="https://www.figma.com/file/2WZJ524p6xSESF8TwckidH/Tesouro?type=design&node-id=0%3A1&mode=design&t=7gP0CK3hhqFsBrzK-1">Acesse aqui o protótipo interativo</a> 
 
 ### Etapa 1: Primeiro Acesso
 
