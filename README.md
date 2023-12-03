@@ -78,41 +78,42 @@ Gestão e Armazenamento de Dados em Blockchain para Transações Financeiras Div
 
 # Jornada do Usuário
 
-A jornada que apresentaremos exemplifica uma funcionalidade específica em nosso sistema: a capacidade de solicitar um empréstimo utilizando títulos como garantia. Para ilustrar essa experiência, apresentamos um protótipo de um aplicativo móvel que guia o usuário desde o primeiro acesso até a conclusão bem-sucedida do empréstimo. <a href="">Acesse aqui o protótipo interativo</a> 
+A jornada que apresentaremos exemplifica uma funcionalidade específica em nosso sistema: a capacidade de solicitar um empréstimo utilizando títulos como garantia. Para ilustrar essa experiência, apresentamos um protótipo de um aplicativo móvel que guia o usuário desde o primeiro acesso até a conclusão bem-sucedida do empréstimo. <a href="https://www.figma.com/community/file/1312929302916136467">Acesse aqui o protótipo interativo</a> 
 
-### Etapa 1: Registro e Configuração da Conta
+### Etapa 1: Primeiro Acesso
 
-Carlos, um investidor do Tesouro Direto, acessa a plataforma Aval Gest.
-Ele se registra usando sua conta GOV.BR ou sua conta do Tesouro Direto para autenticação.
+Carlos, um investidor do Tesouro Direto, acessa a plataforma Aval Gest. Ele vê a tela de boas-vindas.
 
-![]()
+![](assets/1.png)
 
 ### Etapa 2: Exploração da Plataforma
-Carlos explora a interface do Aval Gest, onde ele pode visualizar suas opções.
-Ele revisa diferentes ofertas de empréstimo disponíveis, seguros fiança, e outras operações financeiras que aceitam TPFt como garantia.
+Carlos explora a interface do Aval Gest, onde ele pode visualizar as ofertas.
 
-![]()
+![](assets/2.png)
 
-### Etapa 3: Seleção de Produto e Solicitação de Empréstimo
+### Etapa 3: Login
 
-Carlos seleciona uma oferta de empréstimo que se alinha com suas necessidades.
-Ele utiliza seus TPFt como colateral, escolhendo a quantia desejada de empréstimo.
-Carlos revisa os termos do empréstimo e aceita a oferta.
+Carlos seleciona uma das formas de fazer login. Ele é recebido com uma breve apresentação do app.
 
-![]()
+![](assets/3.png)  ![](assets/4.png)
 
-### Etapa 4: Assinatura do Contrato e Recebimento do Empréstimo
+### Etapa 4: Criação da carteira AvalGest
 
-Carlos assina digitalmente o contrato de empréstimo, que é registrado na blockchain.
-Ele recebe o valor do empréstimo em sua conta bancária ou carteira digital, dependendo do tipo de empréstimo escolhido (FIAT ou criptoativos).
+Carlos pode criar a sua carteira para gerenciamento de suas criptos, ou se conectar com uma que ele já tenha.
 
-![]()
+![](assets/5.png)
 
-### Etapa 5: Gestão de Empréstimo e Investimentos
+### Etapa 5: Visualizações das funcionalidades
 
-Carlos monitora seu empréstimo e investimentos através do dashboard da Aval Gest.
-Ele pode ver atualizações em tempo real sobre o status do empréstimo, pagamentos e rendimentos dos títulos.
+Carlos observa suas opções e decide ver novamente as ofertas.
 
+![](assets/6.png)
+
+### Etapa 6: Escolha de oferta
+
+Carlos seleciona e envia seu interesse em uma das ofertas. Caso a moeda de recebimento seja token, ele verá na sua carteira.
+
+![](assets/7.png)
 
 </br></br>
 
@@ -130,28 +131,14 @@ Ele pode ver atualizações em tempo real sobre o status do empréstimo, pagamen
 
 # Como testar
 
-
-```bash
-# Clone this repository
-$ git clone https://github.com
-# Go into the repository
-$ cd 
-
-# Install dependencies
-$
-
-# Run 
-$ 
-```
-
-> **Note**
+[Acesse aqui]()
 
 </br></br>
 
 
 # Documentação
 
-https://github.com/Equipe-Hub-co-Hackathon-TN/Tokenizacao-do-Tesouro-Nacional/wiki
+[Acesse aqui]()
 
 </br></br>
 # Equipe
