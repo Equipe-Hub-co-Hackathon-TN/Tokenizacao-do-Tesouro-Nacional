@@ -26,9 +26,6 @@
   <a href="#Sobre o projeto">Sobre o projeto</a> •
   <a href="#Recursos Principais">Recursos Principais</a> •
   <a href="#Jornada do Usuário">Jornada do Usuário</a> •
-  <a href="#Aspectos Técnicos">Aspectos técnicos</a> •
-  <a href="#Como testar">Como testar</a> •
-  <a href="#Documentação">Documentação</a> •
   <a href="#Equipe">Equipe</a>
 </p>
 
@@ -39,10 +36,18 @@
 <br><br>
 
 
+<a href="https://github.com/Equipe-Hub-co-Hackathon-TN/smart-contracts" target="_blank"><img src="assets/cod.png" alt="código-smart-contracts" width="200"></a>
+<a href="https://github.com/Equipe-Hub-co-Hackathon-TN/smart-contracts/blob/main/README.md" target="_blank"><img src="assets/doc.png" alt="documentação" width="200"></a>
+<a href="https://github.com/Equipe-Hub-co-Hackathon-TN/Testes" target="_blank"><img src="assets/testes.png" alt="testes" width="200"></a>
+
+
+
 # Sobre o projeto
 </br>
 
+
 ![](assets/PSF.gif)
+
 
 </br>
 
@@ -118,29 +123,7 @@ Carlos seleciona e envia seu interesse em uma das ofertas. Caso a moeda de receb
 </br></br>
 
 
-# Aspectos técnicos
 
-| Detalhe                 | Descrição                                           |
-|-------------------------|-----------------------------------------------------|
-| Licença                 | MIT                                                 |
-| Documentação           | [Repositório no GitHub](link_para_o_repositorio)    |
-| Versão do Solidity      | ^0.8.17                                             |
-| Endereço do Contrato    | 0x52d442BAb6D92DD9913DEd19CB04A321eD2925B6 (Mumbai) |
-
-</br></br>
-
-# Como testar
-
-[Acesse aqui]()
-
-</br></br>
-
-
-# Documentação
-
-[Acesse aqui]()
-
-</br></br>
 # Equipe
 
 <a target="_blank" href="">Thom M Costa </a> <a target="_blank" href="https://www.linkedin.com/in/thommcosta/">
