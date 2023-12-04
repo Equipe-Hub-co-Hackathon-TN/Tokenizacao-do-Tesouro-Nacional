@@ -51,7 +51,7 @@
 
 </br>
 
-### A AVAL GEST é uma Plataforma de Empréstimo com Títulos Digitais
+### A AVAL GEST é uma Plataforma de gerenciamento de garantias que possibilita ao investidor uma inovadora interação com os Títulos Digitais.
 
 | **PARA**      | <p align="justify"> Investidores do Tesouro Direto que procuram maximizar o valor de seus investimentos através de maior flexibilidade e eficiência, e novos investidores que desejam aproveitar a segurança e liquidez dos títulos do Tesouro como garantia para acessar uma variedade de oportunidades financeiras. </p> |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@
 
 # Recursos Principais
 
-Gestão e Armazenamento de Dados em Blockchain para Transações Financeiras Diversificadas
+Gestão e Armazenamento de Dados em Blockchain para Transações Financeiras Diversificadas. Alguns exemplos de produtos que nossa solução permite viabilizar:
 
 | Funcionalidade | Descrição | Tecnologia |
 |-----------------|-----------|------------|
