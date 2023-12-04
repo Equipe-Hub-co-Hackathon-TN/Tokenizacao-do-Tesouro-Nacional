@@ -39,6 +39,7 @@
 <a href="https://github.com/Equipe-Hub-co-Hackathon-TN/smart-contracts" target="_blank"><img src="assets/cod.png" alt="código-smart-contracts" width="200"></a>
 <a href="https://github.com/Equipe-Hub-co-Hackathon-TN/smart-contracts/blob/main/README.md" target="_blank"><img src="assets/doc.png" alt="documentação" width="200"></a>
 <a href="https://github.com/Equipe-Hub-co-Hackathon-TN/Testes" target="_blank"><img src="assets/testes.png" alt="testes" width="200"></a>
+<a href="https://github.com/Equipe-Hub-co-Hackathon-TN/Tokenizacao-do-Tesouro-Nacional/blob/main/apresentacao_avalgest.pdf" target="_blank"><img src="assets/pdf.png" alt="pdf" width="200"></a>
 
 
 
