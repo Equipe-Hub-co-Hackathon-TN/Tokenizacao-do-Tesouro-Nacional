@@ -48,7 +48,6 @@
 
 
 ![](assets/pitch.gif)
-* Nosso vídeo de apresentação no YouTube: https://www.youtube.com/watch?v=cPGeW7WkPSY 
 
 
 </br>
