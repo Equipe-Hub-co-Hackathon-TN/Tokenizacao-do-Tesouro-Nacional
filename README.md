@@ -88,36 +88,36 @@ A jornada que apresentaremos exemplifica uma funcionalidade específica em nosso
 
 ### Etapa 1: Primeiro Acesso
 
-Carlos, um investidor do Tesouro Direto, acessa a plataforma Aval Gest. Ele vê a tela de boas-vindas.
+Catarina, uma investidora do Tesouro Direto, acessa a plataforma Aval Gest. Ela vê a tela de boas-vindas.
 
 ![](assets/1.png)
 
 ### Etapa 2: Exploração da Plataforma
-Carlos explora a interface do Aval Gest, onde ele pode visualizar as ofertas.
+Catarina explora a interface do Aval Gest, onde ela pode visualizar as ofertas.
 
 ![](assets/2.png)
 
 ### Etapa 3: Login
 
-Carlos seleciona uma das formas de fazer login. Ele é recebido com uma breve apresentação do app.
+Catarina seleciona uma das formas de fazer login. Ela é recebida com uma breve apresentação do app.
 
 ![](assets/3.png)  ![](assets/4.png)
 
 ### Etapa 4: Criação da carteira AvalGest
 
-Carlos pode criar a sua carteira para gerenciamento de suas criptos, ou se conectar com uma que ele já tenha.
+Catarina pode criar a sua carteira para gerenciamento de suas criptos, ou se conectar com uma que ela já tenha.
 
 ![](assets/5.png)
 
 ### Etapa 5: Visualizações das funcionalidades
 
-Carlos observa suas opções e decide ver novamente as ofertas.
+Catarina observa suas opções e decide ver novamente as ofertas.
 
 ![](assets/6.png)
 
 ### Etapa 6: Escolha de oferta
 
-Carlos seleciona e envia seu interesse em uma das ofertas. Caso a moeda de recebimento seja token, ele verá na sua carteira.
+Catarina seleciona e envia seu interesse em uma das ofertas. Caso todas as condições sejam cumpridas o produto poderá ser contratado.
 
 ![](assets/7.png)
 
