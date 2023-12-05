@@ -35,18 +35,18 @@
 
 <br><br>
 
-
+<p align="center">
 <a href="https://github.com/Equipe-Hub-co-Hackathon-TN/smart-contracts" target="_blank"><img src="assets/cod.png" alt="código-smart-contracts" width="200"></a>
 <a href="https://github.com/Equipe-Hub-co-Hackathon-TN/smart-contracts/blob/main/README.md" target="_blank"><img src="assets/doc.png" alt="documentação" width="200"></a>
 <a href="https://github.com/Equipe-Hub-co-Hackathon-TN/Testes" target="_blank"><img src="assets/testes.png" alt="testes" width="200"></a>
 <a href="https://github.com/Equipe-Hub-co-Hackathon-TN/Tokenizacao-do-Tesouro-Nacional/blob/main/AvalGest.pdf" target="_blank"><img src="assets/pdf.png" alt="pdf" width="200"></a>
-
+</p>
 
 
 # Sobre o projeto
 </br>
 
-
+Assista nosso vídeo de apresentação no Youtube: https://www.youtube.com/watch?v=cPGeW7WkPSY
 ![](assets/pitch.gif)
 
 
@@ -117,7 +117,7 @@ Catarina observa suas opções e decide ver novamente as ofertas.
 
 ### Etapa 6: Escolha de oferta
 
-Catarina seleciona e envia seu interesse em uma das ofertas. Caso todas as condições sejam cumpridas o produto poderá ser contratado.
+Catarina seleciona e envia seu interesse em uma das ofertas. Caso todas as condições sejam atendidas o produto poderá ser contratado.
 
 ![](assets/7.png)
 
